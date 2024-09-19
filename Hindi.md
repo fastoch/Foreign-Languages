@@ -1,0 +1,3 @@
+- The main language spoken in India is Hindi, which serves as the official language of the central government alongside English
+- However, it is estimated that there are over 121 languages and more than 270 mother tongues spoken throughout the country
+- 
