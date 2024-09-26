@@ -29,4 +29,4 @@ src = https://www.tofugu.com/learn-japanese/
 # Kanji
 
 - it's actually made of chinese symbols
-- 
+- very hard to learn because there are thousands of them
